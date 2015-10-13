@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=scoreCounter
+comment0.target=Meteor(Counter)
+comment1.params=size
+comment1.target=Meteor(int)
+comment10.params=
+comment10.target=void\ makeFire()
+comment2.params=size\ speed
+comment2.target=Meteor(int,\ Vector)
+comment3.params=scoreCounter\ force
+comment3.target=Meteor(Counter,\ double)
+comment4.params=
+comment4.target=void\ explode()
+comment5.params=x\ y\ numFragments
+comment5.target=void\ placeMeteorFragments(int,\ int,\ int)
+comment6.params=
+comment6.target=void\ act()
+comment7.params=size
+comment7.target=void\ setSize(int)
+comment7.text=\r\n\ Set\ the\ size\ of\ this\ Meteor.\ Note\ that\ stability\ is\ directly\r\n\ related\ to\ size.\ Smaller\ Meteors\ are\ less\ stable.\r\n
+comment8.params=
+comment8.target=void\ hit()
+comment8.text=\r\n\ Hit\ this\ Meteor\ dealing\ the\ given\ amount\ of\ damage.\r\n
+comment9.params=
+comment9.target=void\ MeteorAtEdge()
+numComments=11

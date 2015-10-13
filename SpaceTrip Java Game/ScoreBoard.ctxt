@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=ScoreBoard(int)
+comment0.text=\r\n\ Create\ a\ score\ board\ for\ the\ final\ result.\r\n
+comment1.params=score\ title
+comment1.target=ScoreBoard(int,\ java.lang.String)
+comment2.params=title\ prefix\ score\ message1\ message2
+comment2.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Make\ the\ score\ board\ image.\r\n
+comment3.params=title\ prefix\ score\ message
+comment3.target=void\ makeWinnerImage(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+numComments=4
